@@ -1,0 +1,26 @@
+body {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+  padding-left: 0.5in
+
+}
+
+.form-control{
+    width: 300px;
+}
+
+.form-select{
+    width: 150px;
+}
+
+.table th {
+    background-color: #525252;
+    color: white;
+  }
+
+.table, th, td {
+    border: 1px solid rgb(37, 37, 37);
+}
+
+.table tr:nth-child(even) {background-color: #f2f2f2;}
